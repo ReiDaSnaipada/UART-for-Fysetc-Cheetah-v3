@@ -13,6 +13,7 @@ make menuconfig
 
 #image 1
 
+After configuration of menuconfig, Build and flash the firmware. For flash of, was used the kiauh and usb connection. 
 ```
 make
 ``` 
