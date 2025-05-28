@@ -8,4 +8,6 @@ Aiming to solve the USB connection problem of the cheetah V3 with the klipper, i
   
 In Klipper, access via SSH and configure:
 
-).make menuconfig(
+'''
+make menuconfig
+'''
