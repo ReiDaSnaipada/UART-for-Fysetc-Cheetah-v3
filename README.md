@@ -17,3 +17,10 @@ After configuration of menuconfig, Build and flash the firmware. For flash of, w
 ```
 make
 ``` 
+
+- STEP 2 - KIAUH 
+Using the `Kiauh` this is possible build and flash firmware.
+```
+./kiauh/kiauh.sh
+```
+
